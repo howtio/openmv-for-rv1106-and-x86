@@ -1,3 +1,4 @@
 /home/howtion/minimv/build/CMakeFiles/test_run.dir
+/home/howtion/minimv/build/CMakeFiles/image.dir
 /home/howtion/minimv/build/CMakeFiles/edit_cache.dir
 /home/howtion/minimv/build/CMakeFiles/rebuild_cache.dir

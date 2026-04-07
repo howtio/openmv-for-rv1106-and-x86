@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/test_run.dir/link.d"
   "CMakeFiles/test_run.dir/common/array.c.o"
   "CMakeFiles/test_run.dir/common/array.c.o.d"
   "CMakeFiles/test_run.dir/common/queue.c.o"

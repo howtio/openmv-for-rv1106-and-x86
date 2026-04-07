@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/image.dir/link.d"
+  "CMakeFiles/image.dir/common/array.c.o"
+  "CMakeFiles/image.dir/common/array.c.o.d"
+  "CMakeFiles/image.dir/common/queue.c.o"
+  "CMakeFiles/image.dir/common/queue.c.o.d"
+  "CMakeFiles/image.dir/common/trace.c.o"
+  "CMakeFiles/image.dir/common/trace.c.o.d"
+  "CMakeFiles/image.dir/imlib/collections.c.o"
+  "CMakeFiles/image.dir/imlib/collections.c.o.d"
+  "CMakeFiles/image.dir/imlib/edge.c.o"
+  "CMakeFiles/image.dir/imlib/edge.c.o.d"
+  "CMakeFiles/image.dir/imlib/fast.c.o"
+  "CMakeFiles/image.dir/imlib/fast.c.o.d"
+  "CMakeFiles/image.dir/imlib/fmath.c.o"
+  "CMakeFiles/image.dir/imlib/fmath.c.o.d"
+  "CMakeFiles/image.dir/imlib/hough.c.o"
+  "CMakeFiles/image.dir/imlib/hough.c.o.d"
+  "CMakeFiles/image.dir/imlib/imlib.c.o"
+  "CMakeFiles/image.dir/imlib/imlib.c.o.d"
+  "CMakeFiles/image.dir/imlib/mathop.c.o"
+  "CMakeFiles/image.dir/imlib/mathop.c.o.d"
+  "CMakeFiles/image.dir/imlib/point.c.o"
+  "CMakeFiles/image.dir/imlib/point.c.o.d"
+  "CMakeFiles/image.dir/imlib/rectangle.c.o"
+  "CMakeFiles/image.dir/imlib/rectangle.c.o.d"
+  "CMakeFiles/image.dir/imlib/sincos_tab.c.o"
+  "CMakeFiles/image.dir/imlib/sincos_tab.c.o.d"
+  "CMakeFiles/image.dir/imlib/xyz_tab.c.o"
+  "CMakeFiles/image.dir/imlib/xyz_tab.c.o.d"
+  "CMakeFiles/image.dir/modules/py_image.c.o"
+  "CMakeFiles/image.dir/modules/py_image.c.o.d"
+  "image.pdb"
+  "image.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/image.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
