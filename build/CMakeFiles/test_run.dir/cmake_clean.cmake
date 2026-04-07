@@ -1,0 +1,39 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/test_run.dir/common/array.c.o"
+  "CMakeFiles/test_run.dir/common/array.c.o.d"
+  "CMakeFiles/test_run.dir/common/queue.c.o"
+  "CMakeFiles/test_run.dir/common/queue.c.o.d"
+  "CMakeFiles/test_run.dir/common/trace.c.o"
+  "CMakeFiles/test_run.dir/common/trace.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/collections.c.o"
+  "CMakeFiles/test_run.dir/imlib/collections.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/edge.c.o"
+  "CMakeFiles/test_run.dir/imlib/edge.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/fast.c.o"
+  "CMakeFiles/test_run.dir/imlib/fast.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/fmath.c.o"
+  "CMakeFiles/test_run.dir/imlib/fmath.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/hough.c.o"
+  "CMakeFiles/test_run.dir/imlib/hough.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/imlib.c.o"
+  "CMakeFiles/test_run.dir/imlib/imlib.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/mathop.c.o"
+  "CMakeFiles/test_run.dir/imlib/mathop.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/point.c.o"
+  "CMakeFiles/test_run.dir/imlib/point.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/rectangle.c.o"
+  "CMakeFiles/test_run.dir/imlib/rectangle.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/sincos_tab.c.o"
+  "CMakeFiles/test_run.dir/imlib/sincos_tab.c.o.d"
+  "CMakeFiles/test_run.dir/imlib/xyz_tab.c.o"
+  "CMakeFiles/test_run.dir/imlib/xyz_tab.c.o.d"
+  "CMakeFiles/test_run.dir/main.c.o"
+  "CMakeFiles/test_run.dir/main.c.o.d"
+  "test_run"
+  "test_run.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/test_run.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
